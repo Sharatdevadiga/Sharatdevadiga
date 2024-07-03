@@ -1,6 +1,6 @@
 # 👋 Hi!!
 
-I’m @Sharatdevadiga. I’m here to bring your ideas to life! Whether you're looking to build a stunning frontend, a robust backend, or a full-stack application, I have the skills to make it happen.
+I’m @Sharat Devadiga. I’m here to bring your ideas to life! Whether you're looking to build a stunning frontend, a robust backend, or a full-stack application, I have the skills to make it happen.
 
 ## What I Can Do for You
 - **🎨 Frontend Development:**
