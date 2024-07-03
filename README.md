@@ -15,8 +15,8 @@ I’m @Sharatdevadiga. I’m here to bring your ideas to life! Whether you're lo
   - **Databases:** Managing data with MongoDB and PostgreSQL.
 
 ## 📚 Current Learning
-- **NEXT.js**
 - **Advanced React**
+- **NEXT.js**
 - **SQL**
 
 ## 🤝 Why Work with Me?
