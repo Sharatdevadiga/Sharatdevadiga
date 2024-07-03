@@ -34,7 +34,7 @@ I’m committed to continuous learning and improvement. Here are some of the cou
 - **Responsive Web Design** (FreeCodeCamp)
 - **Node, Express, MongoDB** by Jonas Schmedtmann (Udemy)
 - **HTML And CSS** by Jonas Schmedtmann (Udemy)
-- **Full-Stack Web Development Bootcamp** - AlmaBetter (In collaboration with IIT Guwahati, currently pursuing)
+- **Full-Stack Web Development Bootcamp** - AlmaBetter (In collaboration with IIT Guwahati) -currently pursuing
 
 ### 🚀 Let's Create Something Amazing Together!
 Ready to take your project to the next level? Get in touch, and let's build something incredible!
