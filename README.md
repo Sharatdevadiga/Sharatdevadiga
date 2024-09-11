@@ -6,7 +6,7 @@ I’m @Sharat Devadiga. I’m here to bring your ideas to life! Whether you're l
 - **🎨 Frontend Development:**
   - **HTML & CSS:** Crafting beautiful and responsive web pages.
   - **JavaScript:** Adding interactivity and dynamic features.
-  - **React & Redux:** Building complex and efficient user interfaces.
+  - **React, Redux, Next.js:** Building complex and efficient user interfaces.
   - **Tailwind CSS & Bootstrap:** Styling with modern frameworks.
   - **UI/UX Design:** Ensuring your application is user-friendly and visually appealing.
 
